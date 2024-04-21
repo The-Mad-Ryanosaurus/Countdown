@@ -50,8 +50,7 @@ In the same terminal window you used to clone the repository, do the following s
 4. `pip install qiskit-aer`
 5. `pip install matplotlib`
 6. `pip install pylatexenc`
-7. `pip install qiskit-ibmq-provider` then do `pip install qiskit-ibm-runtime`: This is so you can connect to IBM Quantum devices to create and visualize circuits and execute them both on simulations and real quantum devices. You can see an example of this in my project notebook. [Step 4](#step4)
-8. `pip install qiskit[visualization]`
+7. `pip install qiskit[visualization]`
 
 Remember to restart the Jupyter kernel if you encounter any import errors after installation.
 
@@ -62,16 +61,3 @@ Should the installs fail, run your command prompt as an administrator and try ag
 Still in the same terminal window do the following:<br>
 code .<br>
 This will open VS code and you can now access and run both jupyter notebooks.
-
-### **Step 4: IBM Quantum Platform (_optional_)**
-
-The following is a guide to setup IBM Quantum Platform so you can simulate the Countdown Numbers Game in a real world IBM Quantum Computer.
-
-1. **Obtain an IBM Quantum Platform API:**<br>
-   - You will need to create an account at [IBM Quantum Lab](https://docs.quantum.ibm.com/start/setup-channel#ibm-quantum-platform)
-   - Once you have an account you can navigate to the `IBM Quantum Platform Dashboard` and copy your `API Token` from the top right of your screen.
-2. **API Token Update:**<br>
-   - In the project notebook, users should replace the placeholder `api_token = 'placeholder'` with their own API token from IBM Quantum Platform.
-3. **Run the IBM Quantum Simulation:**<br>
-   - In the project notebook select `|>|> Run All`. This will run all cells in a linear fashion ensuring the connection to an IBM quantum computer is successful and runs the Deutsch's Algorithm on a real quantum device<br>
-     These steps are crucial for users who wish to interact with IBM Quantum Computers and run the Countdown Numbers Game in my Jupyter notebook.
