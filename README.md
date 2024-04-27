@@ -14,7 +14,7 @@ This repository contains a Jupyter Notebook discussing Computational Theory to u
 
 ### **Jupyter Notebook Overview**
 
-- **Project Notebook:** This notebook applies computational theory principles to develop and discuss Python functions that explore the numbers round of the TV programme Countdown, demonstrating algorithm design, computational paradigms, and complexity analysis.
+- **Project Notebook:** This notebook applies computational theory principles to develop and discuss Python functions that explore the numbers round game of the TV programme Countdown. It demonstrates algorithm design, computational paradigms, and complexity analysis.
 ### **Binder**
 For those interested in experiencing this project without the need for local installation, it is accessible via the following link:
 - **BINDER LINK HERE WHEN PROJECT COMPLETED:**<br>
