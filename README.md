@@ -10,11 +10,11 @@
 
 ### **Introduction**
 
-This repository contains a Jupyter Notebook discussing Computational Theory to understand, examine and hopefully solve the numbers round of popular TV show, **Countdown**. The primary objective of this project is to demonstrate a deep understanding of computational problems in everyday computing.
+This repository contains a Jupyter Notebook discussing Computational Theory to understand, examine and solve via Brute Force the numbers round of the popular TV show, **Countdown**. The primary objective of this project is to demonstrate a deep understanding of computational theory and algorithms in everyday computing.
 
 ### **Jupyter Notebook Overview**
 
-- **Project Notebook:** This notebook applies computational theory principles to develop and discuss Python functions that explore the numbers round game of the TV programme Countdown. It demonstrates algorithm design, computational paradigms, and complexity analysis.
+- **Project Notebook:** This notebook applies computational theory principles to develop and discuss Python functions that explore the numbers round game of the TV programme Countdown. It demonstrates algorithm design, computational paradigms, reverse polish notation and an analysis of the Countdown problem.
 ### **Binder**
 For those interested in experiencing this project without the need for local installation, it is accessible via the following link:
 - **BINDER LINK HERE WHEN PROJECT COMPLETED:**<br>
@@ -46,11 +46,7 @@ In the same terminal window you used to clone the repository, do the following s
 
 1. cd Emerging-Technologies
 2. `pip install notebook`
-3. `pip install qiskit`
-4. `pip install qiskit-aer`
-5. `pip install matplotlib`
-6. `pip install pylatexenc`
-7. `pip install qiskit[visualization]`
+3. `pip install matplotlib`
 
 Remember to restart the Jupyter kernel if you encounter any import errors after installation.
 
@@ -58,6 +54,7 @@ Should the installs fail, run your command prompt as an administrator and try ag
 
 ### **Step 3: Open Project in Visual Studio Code:**
 
-Still in the same terminal window do the following:<br>
+Still in the same terminal window do the following commands:<br>
+cd Countdown <br>
 code .<br>
-This will open VS code and you can now access and run both jupyter notebooks.
+This will open VS code and you can now access and run the Countdown jupyter notebook.
