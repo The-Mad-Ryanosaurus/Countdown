@@ -26,7 +26,7 @@ The following is a step by step guide on how you can clone this repository down 
 ### **Prerequisites**
 
 Installation of `git` <br>
-Installation of `Visual Studio Code`, with extension `Jupyter` & `notebook`<br>
+Installation of `Visual Studio Code`, with extensions `Jupyter` & `notebook`<br>
 Installation of `Python 3` (versions 3+)
 or
 Installation of [Anaconda](https://www.anaconda.com/download/)<br>
