@@ -48,6 +48,7 @@ In the same terminal window you used to clone the repository, do the following s
 2. `pip install notebook`
 3. `pip install memory_profiler`
 4. `pip install TIME-python`
+5. `pip install more-itertools`
 
 Remember to restart the Jupyter kernel if you encounter any import errors after installation.
 
