@@ -44,9 +44,10 @@ This link can be found in the code button at the top of this page under the HTTP
 
 In the same terminal window you used to clone the repository, do the following step by step:
 
-1. cd Emerging-Technologies
+1. cd countdown
 2. `pip install notebook`
-3. `pip install matplotlib`
+3. `pip install memory_profiler`
+4. `pip install TIME-python`
 
 Remember to restart the Jupyter kernel if you encounter any import errors after installation.
 
@@ -55,6 +56,5 @@ Should the installs fail, run your command prompt as an administrator and try ag
 ### **Step 3: Open Project in Visual Studio Code:**
 
 Still in the same terminal window do the following commands:<br>
-cd Countdown <br>
 code .<br>
 This will open VS code and you can now access and run the Countdown jupyter notebook.
