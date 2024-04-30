@@ -17,7 +17,7 @@ This repository contains a Jupyter Notebook discussing Computational Theory to u
 - **Project Notebook:** This notebook applies computational theory principles to develop and discuss Python functions that explore the numbers round game of the TV programme Countdown. It demonstrates algorithm design, computational paradigms, reverse polish notation and an analysis of the Countdown problem.
 ### **Binder**
 For those interested in experiencing this project without the need for local installation, it is accessible via the following link:
-- **BINDER LINK HERE WHEN PROJECT COMPLETED:**<br>
+- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/The-Mad-Ryanosaurus/Countdown.git/main)<br>
 
 ### **Installation Setup Guide**
 
